@@ -69,7 +69,9 @@ Once the installation is complete, you can choose to launch VS Code immediately 
 Click ‘Finish’ to close the installer.       
 vii. Launch    
 If you chose to launch VS Code after installation, it should open automatically.     
-Otherwise, you can find VS Code in your Start Menu or search for it using the search bar.     
+Otherwise, you can find VS Code in your Start Menu or search for it using the search bar.
+![image](https://github.com/limo39/se-assignment-1-setting-up-your-developer-environment-limo39/assets/94519855/d7f16a7e-1213-4b92-9161-b38237ac8459)
+  
 
 ----
 3. Set Up Version Control System:  
@@ -116,7 +118,10 @@ Review your settings, then click ‘Install’ to begin the installation process
 The installer will show a progress bar and may take a few minutes to complete.    
 xii. Completing the Git Setup   
 Once the installation is complete, click ‘Finish’.   
-You may choose to launch Git Bash after closing the installer.   
+You may choose to launch Git Bash after closing the installer.  
+![image](https://github.com/limo39/se-assignment-1-setting-up-your-developer-environment-limo39/assets/94519855/81965eac-72ec-4740-a76e-bd990b933188)
+![image](https://github.com/limo39/se-assignment-1-setting-up-your-developer-environment-limo39/assets/94519855/58563d2a-7220-4d7b-9830-68f2764622a6)
+
 
 ____
 4. Install Necessary Programming Languages and Runtimes:    
@@ -146,6 +151,7 @@ v. Upgrade pip (Optional)
 To upgrade pip to the latest version, run python -m pip install --upgrade pip in the Command Prompt.   
 vi. Using pip to Install Packages    
 You can now use pip to install packages by typing pip install package-name where package-name is the name of the Python package you wish to install   
+![image](https://github.com/limo39/se-assignment-1-setting-up-your-developer-environment-limo39/assets/94519855/2bb219df-db2a-4fec-b3d1-a1da6ac95091)
 
 ____
 6. Configure a Database (MySQL):    
@@ -185,6 +191,7 @@ x. Complete the Setup
 After the configuration is applied, click ‘Finish’ to complete the setup process.    
 xi. Launch MySQL Workbench    
 
+![image](https://github.com/limo39/se-assignment-1-setting-up-your-developer-environment-limo39/assets/94519855/657bb12b-4b48-4e06-ae64-046f7bce9ad4)
 
 ____
 7. Set Up Development Environments and Virtualization (Optional):
