@@ -16,13 +16,13 @@ Prerequisites
 Verify that your PC meets the minimum system requirements for Windows 11.
 Use the PC Health Check app to confirm compatibility.
 Installation Steps
-i. Upgrade via Windows Update (Recommended)
-Go to Settings > Update & Security > Windows Update.
-Click Check for updates.
-If Windows 11 is available, you’ll see the option to download and install.
-Follow the on-screen instructions to complete the upgrade.
-ii. Windows 11 Installation Assistant
-Visit the Windows 11 software download page and download the Installation Assistant.
+i. Upgrade via Windows Update (Recommended)  
+Go to Settings > Update & Security > Windows Update.   
+Click Check for updates.   
+If Windows 11 is available, you’ll see the option to download and install.    
+Follow the on-screen instructions to complete the upgrade.    
+ii. Windows 11 Installation Assistant     
+Visit the Windows 11 software download page and download the Installation Assistant.    
 Open the tool and follow the prompts to upgrade your system to Windows 11.
 iii. Create Windows 11 Installation Media
 On the Windows 11 software download page, select Create tool now.
